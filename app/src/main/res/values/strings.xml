@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">JetpackComponseTutorial</string>
+    <string name="title_activity_simple_text_view">SimpleTextView</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_dynamic_list">DynamicListActivity</string>
+    <string name="title_activity_theme">ThemeActivity</string>
+</resources>
