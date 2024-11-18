@@ -54,6 +54,7 @@ dependencies {
     implementation(libs.androidx.ui.graphics)
     implementation(libs.androidx.ui.tooling.preview)
     implementation(libs.androidx.compose.runtime.livedata)
+    implementation(libs.androidx.navigation.compose)
     implementation(libs.androidx.material3)
     implementation(libs.io.coil.kt.coil.compose)
     testImplementation(libs.junit)
